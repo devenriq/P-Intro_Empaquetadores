@@ -1,0 +1,15 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Octavio Palomino <octepc.97@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
