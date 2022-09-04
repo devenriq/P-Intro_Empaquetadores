@@ -1,5 +1,5 @@
 const $app = document.querySelector("#app");
-const API = "https://api.escuelajs.co/api/v1/products?offset=0&limit=10";
+const API = "https://api.escuelajs.co/api/v1/products?offset=5&limit=20";
 
 const main = async () => {
   const response = await fetch(API);
